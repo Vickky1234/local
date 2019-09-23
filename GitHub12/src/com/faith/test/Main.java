@@ -3,7 +3,7 @@ package com.faith.test;
 public class Main {
 	public static void main(String[] args){
 		SalesData objSalesData=new SalesData();
-		System.out.println("Hello Ust guys");
+		System.out.println("Hello Ust guys...git workspace");
 		displayGreetings();
 		objSalesData.display();
 		
